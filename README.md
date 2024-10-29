@@ -15,6 +15,8 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+
+
 ![exp2 Theory](https://github.com/user-attachments/assets/7160c3aa-286b-40a0-85be-02cb2ee4a9b5)
 
 
